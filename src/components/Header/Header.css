@@ -1,0 +1,21 @@
+nav{
+    line-height:30px;
+    text-align: center;
+    background-color: #282A36;
+    padding:10px;
+    box-shadow: 5px 5px 10px #ff105e;
+}
+nav a{
+    text-decoration: none;
+    font-size: 20Px;
+    color:#fff;
+    font-weight: 600;
+    margin-right: 20px;
+}
+.title{
+    text-align: center;
+    font-size:40px;
+    letter-spacing: 5px;
+    color:#ff105e;
+    margin-bottom: 20px;
+}

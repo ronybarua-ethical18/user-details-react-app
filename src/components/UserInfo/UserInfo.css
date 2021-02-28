@@ -1,0 +1,14 @@
+.user-info{
+    width:90%;
+    margin:auto;
+}
+.user-list-container{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.user-cart-container{
+    width:40%;
+    margin:auto;
+    margin-bottom: 20px;
+    border-bottom:1px solid #ff105e;
+}
